@@ -1,0 +1,14 @@
+{
+  "traillingComma": "es5",
+  "tabWidth": 2,
+  "useTab": false,
+  "semi": true,
+  "singleQuote": false,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "checkIgnorePragma": true,
+  "endOfLine": "crlf",
+  "proseWrap": "always",
+  "quoteProps": "consistent",
+  "singleAttributePerLine": true
+}

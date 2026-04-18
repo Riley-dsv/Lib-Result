@@ -1,0 +1,32 @@
+{
+  "name": "Result",
+  "version": "1.0.0",
+  "description": "Mini-lib for a Result Type",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "jest ./tests/ --collect-coverage --coverage-directory=./coverage",
+    "doc": "pnpm exec typedoc --options conf.json",
+    "pretty": "pnpm exec prettier . --write",
+    "pretty-check": "pnpm exec prettier . --check",
+    "eslint-check": "pnpm exec eslint"
+  },
+  "keywords": [],
+  "author": "Yewspine",
+  "license": "CC0",
+  "packageManager": "pnpm@10.31.0",
+  "devDependencies": {
+    "@types/eslint": "^9.6.1",
+    "@typescript-eslint/eslint-plugin": "^8.58.0",
+    "@typescript-eslint/parser": "^8.58.0",
+    "eslint": "^10.2.0",
+    "globals": "^17.4.0",
+    "jest": "^30.3.0",
+    "jiti": "^2.6.1",
+    "prettier": "^3.8.1",
+    "ts-loader": "^9.5.7",
+    "tsc": "^2.0.4",
+    "typedoc": "^0.28.19",
+    "typescript": "^6.0.2"
+  }
+}

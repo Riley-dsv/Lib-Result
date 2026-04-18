@@ -1,0 +1,8 @@
+dist
+coverage
+build
+docs
+
+*.md
+*.json
+*.yaml

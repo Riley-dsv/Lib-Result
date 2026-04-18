@@ -1,0 +1,15 @@
+{
+  "entryPoints": ["src"],
+  "entryPointStrategy": "expand",
+  "tsconfig": "tsconfig.json",
+  "out": "docs",
+  "readme": "README.md",
+  "name": "Result ts",
+  "exclude": [
+    "**/dist/**",
+    "**/node_modules/**",
+    "**/public/**",
+    "**/logs/**"
+  ],
+  "excludeInternal": false 
+}
