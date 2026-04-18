@@ -12,7 +12,7 @@
     "eslint-check": "pnpm exec eslint"
   },
   "keywords": [],
-  "author": "Yewspine",
+  "author": "Riley",
   "license": "CC0",
   "packageManager": "pnpm@10.31.0",
   "devDependencies": {
