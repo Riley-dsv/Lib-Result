@@ -1,9 +1,0 @@
-{
-  "bail": 1,
-  "verbose": true,
-  "clearMocks": true,
-  "coverageDirectory": "coverage",
-  "errorOnDeprecated": true,
-  "moduleFileExtension": ["js", "ts", "jsx", "tsx"],
-  "testPathIgnorePatterns": ["node_modules/", "dist/", "public/"]
-}
